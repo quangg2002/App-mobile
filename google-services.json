@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "186048035211",
+    "project_id": "hirex-app-1e2dd",
+    "storage_bucket": "hirex-app-1e2dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186048035211:android:187b6cea80bc16df75978e",
+        "android_client_info": {
+          "package_name": "com.ptit.hirex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5AgvwnXu2yxh5kRPe0y-EaxMAtjA9nWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
